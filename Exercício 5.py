@@ -1,4 +1,3 @@
-#Exercício 5 -Faça um programa para a leitura de duas notas parciais de um aluno.
 
 def calcular_media():
     # Lê as duas notas e as converte para números decimais (float)
