@@ -4,7 +4,6 @@
 def saudacao(nome):
     print(f"Olá, {nome}!")
 saudacao("Gabriel")
-git config --global user.email "seu_email_do_github@exemplo.com"
 # 2. Área do Retângulo:
 # Escreva uma função calcular_area(base, altura) que retorne a área.
 def calcular_area(base, altura):
